@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>The Avengers</title>
+    <author>Joss Whedon</author>
+    <genre>Avengers Assemble</genre>
+    <price>100</price>
+  </book>
+  <book>
+    <title>Black Panther</title>
+    <author>Ryan Coogler</author>
+    <genre>Wakanda Forever</genre>
+    <price>10</price>
+  </book>
+  <book>
+    <title>Avengers:Infinity War</title>
+    <author>Anthony</author>
+    <genre>You should have gone for the head</genre>
+    <price>10</price>
+  </book>
+  <book>
+    <title>Iron Man</title>
+    <author>Jon Fanvreau</author>
+    <genre>I am Ironman</genre>
+    <price>10</price>
+  </book>
+  <book>
+    <title>Thor:Ragnarok</title>
+    <author>Taika Waititi</author>
+    <genre>Mystery</genre>
+    <price>100</price>
+  </book>
+</books>
